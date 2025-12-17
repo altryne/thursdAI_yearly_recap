@@ -1,13 +1,17 @@
 # ThursdAI Q4 2025 - AI Yearly Recap
-## The Quarter of Agents, Gemini's Crown & The Sora Social Revolution
+## The Quarter of Agents, Gemini's Crown, GPT-5.2 & The Sora Social Revolution
 
-*Based on 11 ThursdAI episodes from October 2 - December 5, 2025*
+*Based on 12 ThursdAI episodes from October 2 - December 12, 2025*
+
+---
+
+![Q4 2025 ThursdAI Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q4%202025%20ThursdAI%20Q3%20infographic%20(1).jpg)
 
 ---
 
 ## 🔥 Quarter Overview
 
-Q4 2025 will be remembered as the quarter when **agents became real products**, **Google reclaimed the AI throne with Gemini 3**, and **AI-generated social media went mainstream with Sora 2**. OpenAI restructured toward ASI, announced autonomous AI researchers by 2028, and launched agentic browsers. DeepSeek continued innovating with sparse attention and gold-medal reasoning models. The race between coding agents (Cursor, Windsurf, Amp) reached fever pitch, and trillion-parameter open-source models became reality.
+Q4 2025 will be remembered as the quarter when **agents became real products**, **Google reclaimed the AI throne with Gemini 3**, and then **OpenAI fired back with GPT-5.2**. AI-generated social media went mainstream with Sora 2, and Disney's $1B investment signaled the era of licensed synthetic media. OpenAI restructured toward ASI, announced autonomous AI researchers by 2028, and launched agentic browsers. DeepSeek continued innovating with sparse attention and gold-medal reasoning models. The race between coding agents (Cursor, Windsurf, Amp) reached fever pitch, MCP was donated to the Linux Foundation, and trillion-parameter open-source models became reality. Oh, and someone trained an LLM on an H100 **in space**.
 
 ---
 
@@ -115,6 +119,15 @@ Pre-orders opened for $20,000, delivery early 2026:
 - Soft, quiet design at 66 lbs
 - Privacy controls with scheduled sessions and no-go zones
 
+#### 🧑‍💻 **Claude Opus 4.5 - The Coding Beast Returns** (Nov 27)
+Anthropic's flagship model came back with a vengeance:
+- **80.9% SWE-Bench Verified** - beating GPT-5.1's 77.9%
+- **$5/$25 per MTok** - one-third previous Opus cost
+- **"Effort" parameter** for reasoning control (low/medium/high)
+- **Tool Search** cuts token overhead for multi-tool agents
+- Yam couldn't stop talking about it, Alex used it to rewrite his Chrome extension
+- "Opus inside Cursor's Ask mode is currently the supreme coding experience"
+
 ### Open Source LLMs
 | Release | Significance |
 |---------|-------------|
@@ -125,6 +138,7 @@ Pre-orders opened for $20,000, delivery early 2026:
 | **Kimi Linear** (48B) | 1M context window |
 
 ### Big CO LLMs + APIs
+- **Claude Opus 4.5** - 80.9% SWE-Bench Verified, beats GPT-5.1, 1/3 cost of previous Opus
 - **Grok 4.1** - #1 LMArena (briefly), 1586 Elo on EQ-Bench3, 3x fewer hallucinations
 - **Grok 4.1 Fast** - 2M context, 93-100% τ²-Bench Telecom, agent tools API
 - **GPT-5.1** - Instant vs Thinking modes, personality dropdown
@@ -148,9 +162,23 @@ Pre-orders opened for $20,000, delivery early 2026:
 
 ---
 
-## 📅 December 2025 - "DeepSeek's Gold & The Race to ASI"
+## 📅 December 2025 - "GPT-5.2 Fires Back & DeepSeek's Gold Medals"
 
 ### 🎯 Top Stories
+
+#### 🚀 **GPT-5.2 - OpenAI's Answer to Gemini 3** (Dec 11)
+OpenAI dropped GPT-5.2 live during ThursdAI, and it's their strongest reasoning model yet:
+- **90.5% on ARC-AGI-1** (Pro X-High configuration)
+- **54%+ on ARC-AGI-2** - reclaiming frontier from Gemini 3
+- **100% on AIME 2025** - perfect math olympiad score
+- **70% on GDPval** - massive jump on real knowledge-work tasks (up from 47% in Sept!)
+- **MRCR (long-context)**: Holds up into 128K+ while GPT-5.1 falls off
+- Lower hallucination rates, especially with browsing enabled
+- Three tiers: **Instant, Thinking, and Pro** with compute "levels" (medium/high/extra-high)
+- Reports of models thinking for **1-3 hours** on hard problems
+- Clearly aimed at agentic coding loops and long-horizon tasks
+
+> "GPT-5.2 is now the strongest publicly available general-purpose reasoning model" - Early testers
 
 #### 🐋 **DeepSeek V3.2 & V3.2-Speciale - Gold Medal Reasoning** (Dec 4)
 The whale returned with open-source olympiad champions:
@@ -161,47 +189,52 @@ The whale returned with open-source olympiad champions:
 - **$0.28/million tokens** on OpenRouter
 - DeepSeek Sparse Attention: 2-3x cheaper 128K inference
 
+#### 🏛️ **MCP Donated to Linux Foundation** (Dec 11)
+Block, Anthropic, and OpenAI launched the **Agentic AI Foundation** under Linux Foundation:
+- **MCP**, **AGENTS.md**, and **goose** donated to vendor-neutral governance
+- This is exactly how standards should happen: boring governance, lots of stakeholders
+- Huge for interoperability and long-term ecosystem stability
+
 #### 🇪🇺 **Mistral 3 Returns to Apache 2.0** (Dec 4)
 Mistral is fully open again:
 - **Mistral Large 3**: 675B MoE, 41B active, 256K context
 - **Ministral 3** (3B/8B/14B): Vision, edge-optimized, browser-ready
 - 14B reasoning variant: 85% on AIME 2025
 
-#### 🧠 **OpenAI's ASI Roadmap** (Oct 30)
-Sam Altman revealed unprecedented timelines:
-- **ASI in less than a decade**
-- AI research intern by **September 2026**
-- Fully autonomous AI researcher by **March 2028**
-- 1 GW of new compute per week aspiration
-- **$25B initial commitment** from OpenAI Foundation
+#### 🛸 **Starcloud: LLM Training in Space** (Dec 11)
+Peak 2025 energy—an H100 satellite trained nanoGPT on Shakespeare:
+- SSH into an H100… in space… with a US flag in the corner
+- Ran inference on Gemma in orbit
+- Sparked real debate about power, cooling, repairability, and orbital compute economics
+- Karpathy reacted: the era of weird infra ideas has begun
 
-#### 🌐 **Atlas Browser - AI Browsing Goes Mainstream** (Oct 23)
-OpenAI launched their agentic browser:
-- Tight ChatGPT integration with browsing history search via natural language
-- "Cursor" feature for inline text editing
-- Agent mode with access to your logged-in sessions
-- Memory learns from browsing patterns
+#### 🎬 **Disney Invests $1B into OpenAI** (Dec 11)
+The most IP-protective company on Earth goes all-in on AI:
+- Disney characters now available in **Sora**
+- Signals the era of **licensed synthetic media**
+- Raises questions about enforcement against other providers
 
-#### 🧑‍💻 **Claude Opus 4.5 - The Coding Beast** (Nov 27)
-Anthropic's flagship returns:
-- **80.9% SWE-Bench Verified** (beating GPT-5.1 at 77.9%)
-- $5/$25 per MTok - one-third previous Opus cost
-- "Effort" parameter for reasoning control
-- Tool Search cuts token overhead for multi-tool agents
+#### 💻 **Mistral Devstral 2 + Vibe** (Dec 11)
+Open coding models go hard:
+- **Devstral 2** (123B): Top of open-weight coding benchmarks, nearly matches Claude 3.5 Sonnet on SWE-bench
+- **Devstral Small 2** (24B): High-60s SWE-bench, runs on consumer hardware
+- **Mistral Vibe**: Open-source CLI agent, credible alternative to Claude Code/Codex
 
 ### Open Source LLMs
 | Release | Significance |
 |---------|-------------|
+| **Essential AI Rnj-1** (8B) | From-scratch pretrain by Ashish Vaswani (Transformer author), Apache 2.0 |
 | **Arcee Trinity** | US-trained MOEs from scratch, 420B coming Jan 2026 |
 | **DeepSeek-Math-V2** (685B) | IMO gold, 118/120 Putnam 2024 |
 | **Hermes 4.3** (36B) | Decentralized training, SOTA RefusalBench |
+| **Nous Nomos 1** | Strong open-weight math reasoning + open Putnam harness |
 | **HunyuanOCR** (1B) | 860 on OCRBench, beats 72B VLMs |
-| **DeepSeek-OCR** | 10x context compression, 97% decode accuracy |
 
 ### Big CO LLMs + APIs
+- **GPT-5.2** - 90.5% ARC-AGI-1, 100% AIME, reclaims frontier reasoning
 - **Amazon Nova 2** - 70% SWE-Bench Verified, 1M context, 90 min video
 - **Gemini 3 Deep Think** - 45.1% ARC-AGI-2, 41% HLE, limited to 10/day
-- **OpenAI Code Red** - "Garlic" model in development to counter Gemini 3
+- **OpenRouter State of AI Report** - 100T+ tokens analyzed: reasoning dominates, programming at 50%+ usage
 
 ### Vision & Video
 - **Runway Gen 4.5 ("Whisper Thunder")** - #1 video leaderboard, fixed physics
@@ -210,53 +243,74 @@ Anthropic's flagship returns:
 - **SeeDream 4.5** - Multi-reference fusion, improved text rendering
 - **HunyuanVideo 1.5** - 8.3B DiT, runs on 14GB VRAM
 - **Flux.2** (32B) - Multi-reference editing, native 4MP
+- **Jina-VLM** (2.4B) - Multilingual VLM for document understanding
+- **Z.ai GLM-4.6V** - 128K context VLM with tool calling for agents
+- **Perceptron Isaac 0.2** (1B/2B) - Structured outputs, focus tools for edge/robotics
 
 ### Voice & Audio
+- **Google Gemini 2.5 TTS** (Flash + Pro) - Emotion, pacing, multi-speaker control
+- **OpenBMB VoxCPM 1.5** - Open TTS with fine-tuning and voice cloning
 - **Microsoft VibeVoice-Realtime-0.5B** - 300ms latency TTS, 10 min speech
 - **Maya-1** - Open-source TTS from natural language descriptions
 - **Inworld TTS** - #1 on Artificial Analysis leaderboard
 
 ### Tools
+- **Agentic AI Foundation (AAIF)** - MCP + AGENTS.md + goose under Linux Foundation
+- **Cursor Visual Editing** - Click/drag/resize UI elements directly in editor
+- **Stitch by Google** - Gemini 3 Pro default, clickable prototypes, AI Studio export
+- **OpenRouter Broadcast → W&B Weave** - Zero-code tracing for OpenRouter traffic
 - **MCP Apps** (MCP-UI standardized) - Anthropic + OpenAI joint standard
 - **Microsoft Fara-7B** - On-device computer use (73.5% WebVoyager)
-- **LTX Studio Retake** - Selective video editing for $0.10
 - **W&B LLM Evaluation Jobs** - Mid-training checkpoint evals
 
 ---
 
 ## 📊 Quarter Summary: Major Themes
 
-### 1. 🤖 **Agents Became Products**
+### 1. 🚀 **The Reasoning Wars Peaked**
+- Gemini 3 took #1 in November with Deep Think mode (45% ARC-AGI-2)
+- OpenAI fired back with GPT-5.2 (54%+ ARC-AGI-2, 100% AIME)
+- DeepSeek V3.2-Speciale earned actual olympiad gold medals
+- Reasoning tokens now dominate 60%+ of all LLM usage
+
+### 2. 🤖 **Agents Became Products**
 - OpenAI shipped Atlas browser, AgentKit, ChatGPT Apps
 - Cursor, Windsurf, Amp racing on agentic coding
-- MCP became the universal agent protocol (adopted by OpenAI)
+- MCP became the universal agent protocol (now Linux Foundation governed!)
 - Computer use benchmarks (OS World) became critical metrics
 
-### 2. 👑 **Google's Comeback**
-- Gemini 3 Pro took #1 on major benchmarks
+### 3. 👑 **Google's Comeback (and OpenAI's Counter)**
+- Gemini 3 Pro took #1 on major benchmarks (briefly)
 - Antigravity IDE: free agent-first development
 - Nano Banana Pro: 4K perfect-text image generation
-- Deep Think mode doubled ARC-AGI-2 scores
+- OpenAI responded with GPT-5.2 within weeks
 
-### 3. 🏃 **The ASI Race Accelerated**
+### 4. 🏃 **The ASI Race Accelerated**
 - OpenAI restructured: Foundation + PBC model
 - Autonomous AI researchers planned for 2028
 - $1.4 trillion compute commitments
 - 1X NEO: $20K home robots shipping 2026
+- LLMs now training in space (Starcloud)
 
-### 4. 🐋 **Chinese Labs Dominated Open Source (Again)**
+### 5. 🐋 **Chinese Labs Dominated Open Source (Again)**
 - DeepSeek V3.2-Speciale: Gold medal olympiad reasoning
 - Kimi K2 Thinking: 1T param agent model
 - MiniMax M2: Sonnet performance at 8% cost
 - Qwen continued multimodal innovation
 
-### 5. 🎥 **AI Social Media Went Mainstream**
+### 6. 🎬 **Licensed Synthetic Media Era Begins**
+- Disney's $1B OpenAI investment
+- Disney characters in Sora
+- IP holders now choosing which AI vendors get access
+- Distribution and licensing matter as much as model quality
+
+### 7. 🎥 **AI Social Media Went Mainstream**
 - Sora 2 launched as full social platform
 - Cameos made everyone the star
 - Algorithm control via natural language
 - Google: Generative UIs in real-time
 
-### 6. 🧪 **AI Made Scientific Discovery**
+### 8. 🧪 **AI Made Scientific Discovery**
 - C2S-Scale model generated novel cancer hypothesis
 - Wet lab validation confirmed AI-created knowledge
 - First counter-evidence to "stochastic parrot" criticism
@@ -273,18 +327,20 @@ Anthropic's flagship returns:
 5. **OpenAI Pulse** - Proactive personalized AI agent
 
 ### November
-1. **Gemini 3 Pro + Deep Think** - Google takes LLM crown
-2. **GPT-5.1-Codex-Max** - 24-hour autonomous coding
-3. **Antigravity IDE** - Free agent-first development
-4. **MiniMax M2** - Sonnet at 8% cost, open source
-5. **1X NEO** - $20K consumer humanoid robot
+1. **Gemini 3 Pro + Deep Think** - Google takes LLM crown (temporarily)
+2. **Claude Opus 4.5** - 80.9% SWE-Bench, beats GPT-5.1, supreme coding experience
+3. **GPT-5.1-Codex-Max** - 24-hour autonomous coding
+4. **Antigravity IDE** - Free agent-first development
+5. **MiniMax M2** - Sonnet at 8% cost, open source
+6. **1X NEO** - $20K consumer humanoid robot
 
 ### December
-1. **DeepSeek V3.2-Speciale** - Open-source olympiad gold medalist
-2. **Claude Opus 4.5** - 80.9% SWE-Bench at 1/3 cost
-3. **Mistral 3** - Apache 2.0 return, full family release
-4. **Gemini 3 Deep Think** - 45% ARC-AGI-2
-5. **MCP Apps** - Unified standard for agentic UIs
+1. **GPT-5.2** - OpenAI reclaims reasoning frontier (90.5% ARC-AGI-1, 100% AIME)
+2. **DeepSeek V3.2-Speciale** - Open-source olympiad gold medalist
+3. **MCP donated to Linux Foundation** - Agentic AI Foundation formed
+4. **Disney $1B OpenAI Investment** - Licensed synthetic media era begins
+5. **Mistral Devstral 2** - Open coding SOTA, Apache 2.0
+6. **Starcloud** - First LLM trained on an H100 in space
 
 ---
 

@@ -5,6 +5,10 @@
 
 ---
 
+![Q2 2025 ThursdAI Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q2%202025%20ThursdAI%20Q2%20infographic.jpg)
+
+---
+
 ## 🔥 Quarter Overview
 
 Q2 2025 will be remembered as the quarter when **video AI crossed the uncanny valley** (VEO3's native audio blew minds), **tool-using reasoning models emerged** (o3 can call tools mid-thought!), and **open source matched frontier models** (Qwen 3 and Claude 4 delivered back-to-back). Google I/O dropped an avalanche of announcements, Meta's Llama 4 had a chaotic launch, and the agent ecosystem matured with MCP becoming the universal standard.

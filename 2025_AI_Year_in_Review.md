@@ -175,6 +175,9 @@ From images to interactive worlds:
 
 ### Q1: "The Quarter That Changed Everything"
 **January-March 2025**
+
+![Q1 2025 Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q1%202025%20ThursdAI%20Q1%20infographic.jpg)
+
 - 🐋 DeepSeek R1 crashed NVIDIA ($560B loss)
 - 🤖 OpenAI Operator (agentic ChatGPT)
 - 💫 Project Stargate ($500B infrastructure)
@@ -184,6 +187,9 @@ From images to interactive worlds:
 
 ### Q2: "The Quarter That Shattered Reality"
 **April-June 2025**
+
+![Q2 2025 Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q2%202025%20ThursdAI%20Q2%20infographic.jpg)
+
 - 🧠 o3/o4-mini (tool-using reasoners)
 - 🎬 VEO3 (native audio, uncanny valley crossed)
 - 🔥 Qwen 3 (Apache 2.0, 8 models)
@@ -193,6 +199,9 @@ From images to interactive worlds:
 
 ### Q3: "GPT-5, Trillion-Scale Open Source, World Models"
 **July-September 2025**
+
+![Q3 2025 Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q3%202025%20ThursdAI%20Q3%20infographic.jpeg)
+
 - 👑 GPT-5 arrives (400K context, unified reasoning)
 - 🦄 Kimi K2 (1T params, 65.8% SWE-bench)
 - 🌍 Google Genie-3 (playable AI worlds)
@@ -202,6 +211,9 @@ From images to interactive worlds:
 
 ### Q4: "Agents, Gemini's Crown & Sora Social"
 **October-December 2025**
+
+![Q4 2025 Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q4%202025%20ThursdAI%20Q3%20infographic%20(1).jpg)
+
 - 📹 Sora 2 (AI social media revolution)
 - 👑 Gemini 3 Pro (45% ARC-AGI-2)
 - 🐋 DeepSeek V3.2-Speciale (olympiad gold)

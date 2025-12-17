@@ -5,6 +5,10 @@
 
 ---
 
+![Q1 2025 ThursdAI Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q1%202025%20ThursdAI%20Q1%20infographic.jpg)
+
+---
+
 ## 🔥 Quarter Overview
 
 Q1 2025 will be remembered as the quarter when **reasoning models went mainstream**, **open source AI exploded** (largely from Chinese labs), and **AI agents became practical**. DeepSeek R1 crashed the stock market, GPT-4o gave everyone the power to Ghibli-fy everything, and Gemini 2.5 Pro reclaimed the #1 spot on LLM benchmarks.
@@ -73,13 +77,14 @@ OpenAI released Deep Research, an agentic research tool powered by o3:
 - Dr. Derya Unutmaz: "It wrote a phenomenal 25-page patent application that would've cost $10,000+"
 - Available for ChatGPT Pro ($200/mo) only
 
-#### 🧠 **Claude 3.7 Sonnet** - The Coding Beast (Feb 27)
-Anthropic dropped Claude 3.7 Sonnet:
+#### 🧠 **Claude 3.7 Sonnet & Claude Code** - The Coding Beast (Feb 24-27)
+Anthropic dropped Claude 3.7 Sonnet alongside **Claude Code**, their AI coding assistant:
 - **70% on SWE-Bench** (coding benchmark)
 - 8x more output (64K tokens)
 - Integrated thinking/reasoning
 - #1 on WebDev Arena
 - First "hybrid" reasoning + chat model
+- **Claude Code** launched Feb 24 as Anthropic's agentic coding tool, later enhanced with Claude Sonnet 4.5 (Sep) and Claude Opus 4.5 (Nov)
 
 #### 🌐 **GPT-4.5 (Orion)** - The Largest Model (Feb 27)
 OpenAI shipped their largest model ever (rumored 10+ trillion parameters):
@@ -123,6 +128,9 @@ Sam Altman announced:
 - **Sesame Conversational AI** - Most human-like voice interactions
 - **HUME Octave** - Emotional TTS understanding
 - **Zonos** - Expressive TTS with voice cloning
+
+#### 💡 **"Vibe Coding"** - Karpathy Coins a New Era (Feb 2)
+Andrej Karpathy tweeted the term **"Vibe Coding"** on February 2, 2025 (5.2M views), capturing the new paradigm of AI-assisted development where developers describe *what* they want and let AI handle the implementation. The term went viral and became shorthand for the shift from traditional coding to conversational, agent-driven software development. Windsurf, Cursor, and other AI IDEs embraced the concept.
 
 ---
 
@@ -258,10 +266,11 @@ Google launched AI Mode in Search:
 
 ### February  
 1. **OpenAI Deep Research** - PhD-level research agent
-2. **Claude 3.7 Sonnet** - 70% SWE-Bench
+2. **Claude 3.7 Sonnet & Claude Code** - 70% SWE-Bench + Anthropic's coding assistant
 3. **GPT-4.5 (Orion)** - Largest model ever
 4. **Grok 3** - xAI's contender
-5. **OpenAI Roadmap** - GPT-5 will unify everything
+5. **Karpathy's "Vibe Coding"** - Feb 2 tweet coined the AI coding paradigm (5.2M views)
+6. **OpenAI Roadmap** - GPT-5 will unify everything
 
 ### March
 1. **Gemini 2.5 Pro** - #1 LLM again

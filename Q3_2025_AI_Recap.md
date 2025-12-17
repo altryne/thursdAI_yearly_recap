@@ -5,6 +5,10 @@
 
 ---
 
+![Q3 2025 ThursdAI Infographic](https://pub-7837090e9353474292fc8c7114c5fa9d.r2.dev/thursdai_infographics/Q3%202025%20ThursdAI%20Q3%20infographic.jpeg)
+
+---
+
 ## 🔥 Quarter Overview
 
 Q3 2025 will be remembered as the quarter when **GPT-5 arrived**, **open source hit the trillion-parameter mark** with Kimi K2, and **world models became playable**. Chinese labs continued their open-source dominance with Qwen, DeepSeek, and ByteDance releases, while OpenAI shipped both their flagship GPT-5 and Apache-2.0 licensed GPT-OSS models. Google's Genie-3 showed us the future of interactive generated worlds, and video generation reached "can't tell it's AI" quality.
